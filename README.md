@@ -1,4 +1,4 @@
-# Analista_SOC
+# DINAMOCITÀ, TRASPARENZA E GAMIFICATION: PROGETTAZIONE DI UN BENCHMARK AI PER LA VALUTAZIONE E GESTIONE DI CYBER ATTACCHI 
 Progetto di Laurea. 
 Sviluppo di un Benchmark AI utilizzabile per valutare le capacità di più agenti AI nell'individuare e gestire cyber attacchi.
 Il benchmark proposto si propone come un modello di base da seguire per lo sviluppo di benchmark di ultima generazione, evidenziando quelle caratteristiche che, molto spesso, sono trascurate o poco valorizzate. Più nello specifico parliamo di: Dinamicità, Trasparenza e Gamification.
